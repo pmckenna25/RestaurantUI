@@ -1,6 +1,5 @@
 # RestaurantUI
-Small UI project for Academy
 
-JSON orders will be placed and written to files found in the target folder.
+## Quick Java swing UI project for Academy week 3.
 
-To further this I would like to send the JSON to a backend via HTTP.
+## JSON orders will be placed and written to files found in the target folder.
